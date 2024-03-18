@@ -3,7 +3,7 @@
 To learn in Detail 
 Visit my website codingmstr.com [https://codingmstr.com/project/how-to-create-image-slider-carousel-in-react-js-with-source-code](https://codingmstr.com/project/how-to-create-image-slider-carousel-in-react-js-with-source-code)
 
-Visit my YouTube [https://www.youtube.com/@codingmstr](https://www.youtube.com/@codingmstr)
+Visit my YouTube [https://www.youtube.com/@codingmstr?sub_confirmation=1](https://www.youtube.com/@codingmstr?sub_confirmation=1)
 
 ## Available Scripts
 

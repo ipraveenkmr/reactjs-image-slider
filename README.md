@@ -1,7 +1,9 @@
 # Learn to create an image slider with React JS
 
-To learn in Detail [Visit my website]([https://github.com/facebook/create-react-app](https://codingmstr.com/project/how-to-create-image-slider-carousel-in-react-js-with-source-code)).
-[Visit my youtube channel]([[https://github.com/facebook/create-react-app](https://codingmstr.com/project/how-to-create-image-slider-carousel-in-react-js-with-source-code](https://www.youtube.com/@codingmstr))).
+To learn in Detail 
+Visit my website codingmstr.com [https://codingmstr.com/project/how-to-create-image-slider-carousel-in-react-js-with-source-code](https://codingmstr.com/project/how-to-create-image-slider-carousel-in-react-js-with-source-code)
+
+Visit my YouTube [https://www.youtube.com/@codingmstr](https://www.youtube.com/@codingmstr)
 
 ## Available Scripts
 

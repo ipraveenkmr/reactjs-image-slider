@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Learn to create an image slider with React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To learn in Detail [Visit my website]([https://github.com/facebook/create-react-app](https://codingmstr.com/project/how-to-create-image-slider-carousel-in-react-js-with-source-code)).
+[Visit my youtube channel]([[https://github.com/facebook/create-react-app](https://codingmstr.com/project/how-to-create-image-slider-carousel-in-react-js-with-source-code](https://www.youtube.com/@codingmstr))).
 
 ## Available Scripts
 
